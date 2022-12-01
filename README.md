@@ -16,9 +16,3 @@
 Here's a walkthrough of implemented user stories:
 
 ![](https://i.imgur.com/3faevoX.gif)
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-![](https://i.imgur.com/1DmFRsR.gif)
